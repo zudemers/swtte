@@ -1,0 +1,113 @@
+body {
+	text-align: center;
+}
+
+#pi {
+	border-radius: 40%;
+	width: 30%;
+}
+
+h1 {
+	text-shadow: 2px 2px #eff542;
+	font-size: 30px;
+}
+
+p {
+	font-size: 22px;
+	color: #42f5b6;
+}
+
+.Underline {
+	height: 10px;
+	width: 230px;
+	background-color: black;
+	margin: 8px auto;
+}
+
+.charac:hover {
+	color: cornsilk;
+}
+
+.Gal:hover {
+	color: bisque;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+#pic {
+	height: 600px;
+}
+
+#picture {
+	height: 600px;
+}
+
+img {
+	transition: transform .1s;
+	border: 10px solid #AAAAAA;
+}
+
+img:hover {
+	transform: scale(0.5);
+}
+
+a {
+	text-decoration: none;
+	text-shadow: 2px 2px yellow;	
+}
+
+.my_nav_bar {
+	position: sticky;
+	top: 0;
+	z-index: 99999;
+}
+.movie_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+.movie_head i {
+	float: right;
+}
+
+.movie_text span {
+	color: #ff7700;
+}
+.JackLeach {
+	margin-top: 30px;
+}
+
+.JackLeach h4 {
+	border-bottom: 1px solid white;
+	padding: 8px;
+}
+
+.JackLeach img {
+	border-radius: 25px;
+}
+
+.JackLeach p {
+	margin-top: 10px;}
+
+.Olleystone {
+	margin-top: 30px;
+}
+
+.Olleystone h4 {
+	border-bottom: 1px solid white;
+	padding: 8px;
+}
+
+.Olleystone img {
+	border-radius: 25px;
+}
+
+.Olleystone p {
+	margin-top: 10px;
+
